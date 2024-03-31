@@ -4,7 +4,7 @@ Propagatio Project: Course ICC (CS-199(c))
 
 Complexity and execution time:
 
-* <img width="764" alt="Screenshot 2024-04-01 at 00 44 03" src="https://github.com/mehdi533/Propagatio/assets/113531778/a567c588-98a8-42d9-9bcf-7cd3bce8ae96">
+<img width="764" alt="Screenshot 2024-04-01 at 00 44 03" src="https://github.com/mehdi533/Propagatio/assets/113531778/a567c588-98a8-42d9-9bcf-7cd3bce8ae96">
 
 * La tâche 1 est réalisée dans la fonction “initialize”, on entre les données du fichier pbm, si elles ne sont pas valides on affiche les messages d’erreurs par défaut, on a aussi entré les valeurs de la matrice d’adjacence, mis la diagonale à zéro et rendu la matrice symétrique si elle ne l’était pas. 
 * Pour la tâche 2, on fait appelle à une fonction récursive "set_visited", elle note comme visités tous les noeuds qui sont connectés au noeud considéré (on commence par 0) et pour chaque noeud connectés elle se réitère et donc marque à nouveau tous les noeuds connectés à celui-ci comme visité. Cette fonction se répète jusqu’à ce que tous les nœuds aient été visités ou alors lorsqu’elle a considéré tous les noeuds reliés à zéro, dans ce cas là si il reste des noeuds non visités, le graphe n’est pas connexe (on quitte le programme et un message par défaut s’affiche). La tâche 3 et la tâche 4 sont toutes les deux effectuées dans la même fonction: count_propagation_graph. 
