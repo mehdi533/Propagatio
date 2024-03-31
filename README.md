@@ -16,6 +16,10 @@ The project, titled "Propagatio," focuses on understanding the propagation of in
    - The final task calculates the average degree of separation across the graph, which reflects the network's cohesion and the speed at which information can be transmitted through it.
 Complexity and execution time:
 
+## The rest of this readme is directly extracted from the final report and explains <u>in French<\u> the different tasks.
+
+Complexity and Execution Time:
+
 <img width="764" alt="Screenshot 2024-04-01 at 00 44 03" src="https://github.com/mehdi533/Propagatio/assets/113531778/a567c588-98a8-42d9-9bcf-7cd3bce8ae96">
 
 
