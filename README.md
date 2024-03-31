@@ -10,7 +10,7 @@ Test:
  ./propagatio < test_file.txt
 ```
 
-The project, titled "Propagatio," focuses on understanding the propagation of information in a network. The objectives of each task are as follows:
+The project Propagatio focuses on understanding the propagation of information in a network. The objectives of each task are as follows:
 
 1. **Task 1: Read input to construct an undirected graph**
    - The goal is to read an image from the standard input, verify it's square and contains only 0s and 1s, and symmetrize the image to obtain an adjacency matrix representing an undirected graph.
