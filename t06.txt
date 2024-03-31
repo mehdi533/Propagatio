@@ -1,1 +1,0 @@
-Matrix corresponds to a disconnected graph
