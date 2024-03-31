@@ -1,8 +1,11 @@
 # Propagatio
 Propagatio Project: Course ICC (CS-199(c))
-
+```c++11
 Compile: g++ -std=c++11 -o propagatio propagatio.cc
+```
+```c++11
 Test: ./propagatio < test_file.txt
+```
 
 The project, titled "Propagatio," focuses on understanding the propagation of information in a network. The objectives of each task are as follows:
 
